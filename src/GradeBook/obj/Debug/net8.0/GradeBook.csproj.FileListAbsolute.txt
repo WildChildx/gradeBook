@@ -1,0 +1,15 @@
+C:\Users\shreec\Documents\GitHub\gradeBook\src\GradeBook\bin\Debug\net8.0\GradeBook.exe
+C:\Users\shreec\Documents\GitHub\gradeBook\src\GradeBook\bin\Debug\net8.0\GradeBook.deps.json
+C:\Users\shreec\Documents\GitHub\gradeBook\src\GradeBook\bin\Debug\net8.0\GradeBook.runtimeconfig.json
+C:\Users\shreec\Documents\GitHub\gradeBook\src\GradeBook\bin\Debug\net8.0\GradeBook.dll
+C:\Users\shreec\Documents\GitHub\gradeBook\src\GradeBook\bin\Debug\net8.0\GradeBook.pdb
+C:\Users\shreec\Documents\GitHub\gradeBook\src\GradeBook\obj\Debug\net8.0\GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shreec\Documents\GitHub\gradeBook\src\GradeBook\obj\Debug\net8.0\GradeBook.AssemblyInfoInputs.cache
+C:\Users\shreec\Documents\GitHub\gradeBook\src\GradeBook\obj\Debug\net8.0\GradeBook.AssemblyInfo.cs
+C:\Users\shreec\Documents\GitHub\gradeBook\src\GradeBook\obj\Debug\net8.0\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\shreec\Documents\GitHub\gradeBook\src\GradeBook\obj\Debug\net8.0\GradeBook.sourcelink.json
+C:\Users\shreec\Documents\GitHub\gradeBook\src\GradeBook\obj\Debug\net8.0\GradeBook.dll
+C:\Users\shreec\Documents\GitHub\gradeBook\src\GradeBook\obj\Debug\net8.0\refint\GradeBook.dll
+C:\Users\shreec\Documents\GitHub\gradeBook\src\GradeBook\obj\Debug\net8.0\GradeBook.pdb
+C:\Users\shreec\Documents\GitHub\gradeBook\src\GradeBook\obj\Debug\net8.0\GradeBook.genruntimeconfig.cache
+C:\Users\shreec\Documents\GitHub\gradeBook\src\GradeBook\obj\Debug\net8.0\ref\GradeBook.dll
