@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SHREE\\Source\\Repos\\WildChildx\\gradeBook\\src\\GradeBook\\GradeBook.csproj": {}
+    "C:\\Users\\SHREE\\Source\\Repos\\WildChildx\\gradeBook\\GradeBookUnitTest\\GradeBookUnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SHREE\\Source\\Repos\\WildChildx\\gradeBook\\src\\GradeBook\\GradeBook.csproj": {
+    "C:\\Users\\SHREE\\Source\\Repos\\WildChildx\\gradeBook\\GradeBookUnitTest\\GradeBookUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SHREE\\Source\\Repos\\WildChildx\\gradeBook\\src\\GradeBook\\GradeBook.csproj",
-        "projectName": "GradeBook",
-        "projectPath": "C:\\Users\\SHREE\\Source\\Repos\\WildChildx\\gradeBook\\src\\GradeBook\\GradeBook.csproj",
+        "projectUniqueName": "C:\\Users\\SHREE\\Source\\Repos\\WildChildx\\gradeBook\\GradeBookUnitTest\\GradeBookUnitTest.csproj",
+        "projectName": "GradeBookUnitTest",
+        "projectPath": "C:\\Users\\SHREE\\Source\\Repos\\WildChildx\\gradeBook\\GradeBookUnitTest\\GradeBookUnitTest.csproj",
         "packagesPath": "C:\\Users\\SHREE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SHREE\\Source\\Repos\\WildChildx\\gradeBook\\src\\GradeBook\\obj\\",
+        "outputPath": "C:\\Users\\SHREE\\Source\\Repos\\WildChildx\\gradeBook\\GradeBookUnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SHREE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -49,6 +49,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
