@@ -98,3 +98,9 @@ C:\Users\shreec\Documents\GitHub\gradeBook\test\GradeBook.Tests\obj\Debug\net8.0
 C:\Users\shreec\Documents\GitHub\gradeBook\test\GradeBook.Tests\obj\Debug\net8.0\GradeBook.Tests.pdb
 C:\Users\shreec\Documents\GitHub\gradeBook\test\GradeBook.Tests\obj\Debug\net8.0\GradeBook.Tests.genruntimeconfig.cache
 C:\Users\shreec\Documents\GitHub\gradeBook\test\GradeBook.Tests\obj\Debug\net8.0\ref\GradeBook.Tests.dll
+C:\Users\shreec\Documents\GitHub\gradeBook\test\GradeBook.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_GradeBook.Tests
+C:\Users\shreec\Documents\GitHub\gradeBook\test\GradeBook.Tests\bin\Debug\net8.0\GradeBook.deps.json
+C:\Users\shreec\Documents\GitHub\gradeBook\test\GradeBook.Tests\bin\Debug\net8.0\GradeBook.runtimeconfig.json
+C:\Users\shreec\Documents\GitHub\gradeBook\test\GradeBook.Tests\bin\Debug\net8.0\GradeBook.exe
+C:\Users\shreec\Documents\GitHub\gradeBook\test\GradeBook.Tests\bin\Debug\net8.0\GradeBook.dll
+C:\Users\shreec\Documents\GitHub\gradeBook\test\GradeBook.Tests\bin\Debug\net8.0\GradeBook.pdb
