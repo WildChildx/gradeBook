@@ -18,14 +18,14 @@ namespace GradeBook
             var result = new Statistics
             {
                 Average = 0.0,
-                High = double.MaxValue,
-                Low = double.MinValue
+                High = double.MinValue,
+                Low = double.MaxValue,
             };
 
             foreach (var grade in grades)
             {
-                lowGrade = Math.Min(grade, result.High);
-                highGrade = Math.Max(grade, result.Low);
+                result.Low = Math.Min(grade, result.Low);
+                result.High = Math.Max(grade, result.High);
                 result.Average += grade;
             }
             result.Average /= grades.Count;

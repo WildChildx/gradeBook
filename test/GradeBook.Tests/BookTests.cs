@@ -17,7 +17,7 @@ public class BookTests
 
         //assert
         Assert.Equal(31.05, result.Average, 1);
-        Assert.Equal(Math.Round(1.79, 2), Math.Round(result.High, 2));
-        Assert.Equal(-1.8, result.Low, 1);
+        Assert.Equal(45.2, result.High, 1);
+        Assert.Equal(20.3, result.Low, 1);
     }
 }

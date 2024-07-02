@@ -978,19 +978,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\shreec\\.nuget\\packages\\": {}
+    "C:\\Users\\SHREE\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shreec\\Documents\\GitHub\\gradeBook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\SHREE\\Documents\\GitHub\\gradeBook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
       "projectName": "GradeBook.Tests",
-      "projectPath": "C:\\Users\\shreec\\Documents\\GitHub\\gradeBook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
-      "packagesPath": "C:\\Users\\shreec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shreec\\Documents\\GitHub\\gradeBook\\test\\GradeBook.Tests\\obj\\",
+      "projectPath": "C:\\Users\\SHREE\\Documents\\GitHub\\gradeBook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
+      "packagesPath": "C:\\Users\\SHREE\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SHREE\\Documents\\GitHub\\gradeBook\\test\\GradeBook.Tests\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\shreec\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SHREE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -999,15 +1004,14 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://centiro.pkgs.visualstudio.com/_packaging/Internal/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\shreec\\Documents\\GitHub\\gradeBook\\src\\GradeBook\\GradeBook.csproj": {
-              "projectPath": "C:\\Users\\shreec\\Documents\\GitHub\\gradeBook\\src\\GradeBook\\GradeBook.csproj"
+            "C:\\Users\\SHREE\\Documents\\GitHub\\gradeBook\\src\\GradeBook\\GradeBook.csproj": {
+              "projectPath": "C:\\Users\\SHREE\\Documents\\GitHub\\gradeBook\\src\\GradeBook\\GradeBook.csproj"
             }
           }
         }
