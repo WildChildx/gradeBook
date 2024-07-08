@@ -159,3 +159,16 @@ Desktop.ini
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
+
+# Ignore all DLL files
+*.dll
+
+# Ignore all EXE files
+*.exe
+
+# Ignore all project.nuget.cache files
+*.nuget.cache
+
+# Ignore all .csproj.nuget.dgspec.json file
+*.csproj.nuget.dgspec.json
+
