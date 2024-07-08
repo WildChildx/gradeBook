@@ -172,3 +172,12 @@ $RECYCLE.BIN/
 # Ignore all .csproj.nuget.dgspec.json file
 *.csproj.nuget.dgspec.json
 
+#Ignore all .AssemblyInfo.cs
+*.AssemblyInfo.cs
+
+#Ignore all AssemblyInfoInputs.cache
+*.AssemblyInfoInputs.cache
+*.csproj.CoreCompileInputs.cache
+*.sourcelink.json
+tempCodeRunnerFile.cs
+
